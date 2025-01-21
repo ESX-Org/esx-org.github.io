@@ -13,9 +13,9 @@ local Vehicle = GetVehiclePedIsIn(ESX.PlayerData.ped, false) -- gets the vehicle
 
 local LicencePlate = GetVehicleNumberPlateText(Vehicle) -- returns the Vehicles Licence Plate
 
-print(LicencePlate) -- prints "ESX 123"
+print(LicencePlate) -- prints " ESX 123"
 
 local TrimmedPlate = ESX.Math.Trim(LicencePlate)
 
-print(TrimmedPlate) -- prints "ESX123"
+print(TrimmedPlate) -- prints "ESX 123"
 ```
