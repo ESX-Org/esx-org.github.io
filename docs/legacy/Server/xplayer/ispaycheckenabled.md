@@ -4,5 +4,5 @@
 xPlayer.isPaycheckEnabled()
 ```
 
-This function returns wether the player's paycheck enabled.
+This function returns if the player's paycheck enabled or not.
 
