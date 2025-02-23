@@ -19,3 +19,4 @@ This function returns the current player job object.
 | grade_salary | number    | Grade salary      |
 | skin_male    | table     | Male skin         |
 | skin_female  | table     | Female skin       |
+| onDuty       | boolean   | Job Duty State    |
